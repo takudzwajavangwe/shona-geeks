@@ -345,20 +345,17 @@ img{
 
 /* ===== FOOTER =====*/
 
+
 footer{
   border-top: 5px solid rgb(255, 102, 0);
   margin-top: 50px;
   width: 100%;
   height: 100px;
-  font-style: italic;
-  font-family: cursive;
   font-size: 87%;
   font-weight: 900;
-  color: rgb(255, 102, 0);
+  color: rgb(0, 26, 255);
   text-align: center;
-
- 
-  background: #262626;
+  background: #ffffff;
 }
 .social{
   color: rgb(255, 0, 0);
@@ -378,10 +375,8 @@ footer{
   transform: scale(1.5);
 }
 
-}
-.opacity  { opacity: 0.5;
+.opacity  { opacity: 1.0;
 
-}
 /* ===== MEDIA QUERIES=====*/
 @media screen and (min-width: 768px){
   body{
